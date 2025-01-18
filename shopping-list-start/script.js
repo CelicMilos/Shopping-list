@@ -118,6 +118,8 @@ function clearItems(e) {
   while (itemList.firstChild) {
     itemList.removeChild(itemList.firstChild);
   }
+   // clear from local storage
+  localStorage.removeItem("items");
   resetUI();
 }
 function filterItems(e) {
