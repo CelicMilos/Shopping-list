@@ -29,9 +29,6 @@ Korišćenje
     Klikom na stavku označavaš je kao kupljenu.
     Klikom na "Delete" brišeš stavku.
 
-Slike
-
-(Možeš dodati screenshot aplikacije)
 Licenca
 
 Ovaj projekat je dostupan pod MIT licencom. Možeš ga koristiti, menjati i distribuirati, ali treba da ostaviš moje ime kao autora.
